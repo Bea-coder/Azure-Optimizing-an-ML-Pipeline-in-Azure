@@ -88,4 +88,4 @@ There are two important steps to be performed in both approaches. In the preproc
 
 [//]:<**Image of cluster marked for deletion**>
 
-![Deletion Cluster](./images/deleting-cluster.png)
+![Deletion Cluster](./deleting-cluster.png)
