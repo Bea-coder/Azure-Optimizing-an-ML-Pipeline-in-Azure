@@ -89,3 +89,9 @@ There are two important steps to be performed in both approaches. In the preproc
 [//]:<**Image of cluster marked for deletion**>
 
 ![Deletion Cluster](./deleting-cluster.png)
+
+## References
+swatig007. “Tune Hyperparameters for Your Model - Azure Machine Learning.” Tune Hyperparameters for Your Model - Azure Machine Learning | Microsoft Docs, docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters. 
+
+Ali, Moez. “GitHub Is the Best AutoML You Will Ever Need.” Medium, Towards Data Science, 6 Aug. 2020, towardsdatascience.com/github-is-the-best-automl-you-will-ever-need-5331f671f105. 
+
