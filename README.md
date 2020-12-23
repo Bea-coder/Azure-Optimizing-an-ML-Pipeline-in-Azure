@@ -58,7 +58,7 @@ The best run which was obtained with the following hyper-parameters: *C= 0.5617,
 [//]:<**What are the benefits of the early stopping policy you chose?**>
 
 ## AutoML
-Automated machine learning (AutoML) is the process of automating produce and compare dozens of models. It help us to accelerate the time that takes to get production-ready machine learning models. For AutoML, we only need to provide the task that can be either Classification, Regression, or Forecast and the target metric. We use Classification as a task and accuracy as the target metric.
+Automated machine learning is a tool that help us in the process of producing and comparing dozens of models for the same experiment. Thus, it help us to accelerate the time that it takes to get the right model. For AutoML, we only need to provide the task that we need to perform. It can be either Classification, Regression, or Forecast and choosing the target metric to be optimized. In this example, we use Classification and accuracy as the target metric.
 
 The best model was a **VotingEnsemble** model. Automated machine learning supports ensemble models which are the combination of multiple models. AutoML gives the ability to use two methods for making the ensembles: voting and stacking ensembles. The Voting scheme predicts based on the weighted average of predicted class probabilities.
 
